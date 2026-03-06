@@ -14,7 +14,9 @@ __pycache__/
 # Project specific
 config.json
 outputs/*
+src/outputs/*
 !outputs/.gitkeep
+!src/outputs/.gitkeep
 
 # OS generated files
 .DS_Store
