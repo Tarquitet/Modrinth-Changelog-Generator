@@ -1,0 +1,34 @@
+## Included Mods
+
+* Axiom-5.3.0-for-MC1.20.6
+* CrashAssistant-fabric-1.19-1.21.4-1.11.0
+* ImmediatelyFast-Fabric-1.3.0
+* NoChatReports-FABRIC-1.20.6-v2.7.1
+* NoChatRestrictions-Fabric-MC1.20.6-v1.0.0
+* Scribble-1.3.2
+* alternate-current
+* armorstands-2.2.0
+* bettercommandblockui-0.5.2-1.20.5
+* cicada-lib-0.14.3
+* cloth-config-14.0.139-fabric
+* do_a_barrel_roll-fabric-3.6.0
+* dynamic-fps-3.11.4
+* entity_model_features_fabric_1.20.6-2.2
+* entity_texture_features_fabric_1.20.6-6.2
+* entityculling-fabric-1.6.4
+* fabric-api-0.97.8
+* ferritecore-6.1.1-fabric
+* iris-1.7.0
+* libjf-3.15.7
+* litematica-fabric-1.20.6-0.18.3
+* lithium-fabric
+* malilib-fabric-1.20.6-0.19.2
+* minihud-fabric-1.20.6-0.31.0
+* modmenu-10.0.0
+* moreculling-1.20.5-0.25.0
+* placeholder-api-2.4.0-pre.1
+* respackopts-4.8.0
+* sodium-fabric-0.5.8
+* syncmatica-fabric-1.20.6-0.3.12-sakura.10
+* voxelmap-1.20.5-1.12.18
+* worldedit-mod-7.3.1
